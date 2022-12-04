@@ -28,8 +28,6 @@ int main()
                 }
             }
         }
-        
-        
     }
     file.close();
     //Part 2
